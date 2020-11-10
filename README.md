@@ -1,4 +1,9 @@
 # VrBot (dia de muertos)
+(Acerca de los elementos utilizados para la aplicacion:
+1.- Los modelos 3D son de la pagina de assets de unity, sin embargo nosotros generamos todo ambiente (combinacion de elementos 3D), la tematica de dia de muertos son modelos 3D de un banco de modelos 3D gratuitos, sin embargo tuvimos que optimizarlos con 3DsMax y extraer solo lo que nos servia a nosotros.
+2.- Con respecto a la programacion se siguio la documentacion de microsoft para Hololens y su implementacion en chat virtuales.
+
+
 Asistente VR (dia de muertos segun la sep)
 Permite al usuario interactuar con la informacion de los libros de texto de la sep con relacion al dia de muertos.
 
