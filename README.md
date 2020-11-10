@@ -5,8 +5,9 @@ Permite al usuario interactuar con la informacion de los libros de texto de la s
 Herramientas:
 Unity,
 Visual studio,
-Blender,
-Azure
+3DsMax,
+Azure,
+Substance.
 
 El proyecto se logro al 90% ya que las interacciones se lograron, sin embargo la respuesta del servidor de azure marco errores.
 El errror se detecto en la comunicacion entre visual studio y el servidor ya que visual studio sobreescribia algunas instrucciones del bot.
