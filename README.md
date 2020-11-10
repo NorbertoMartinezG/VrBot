@@ -1,4 +1,4 @@
-# VrBot
+# VrBot (dia de muertos)
 Asistente VR (dia de muertos segun la sep)
 Permite al usuario interactuar con la informacion de los libros de texto de la sep con relacion al dia de muertos.
 
