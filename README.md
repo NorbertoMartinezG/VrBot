@@ -1,3 +1,8 @@
+# Educacion Aumentada
+La idea es original y surge de la necesidad de interesar a los estudiantes de educacion basica en los libros que les otorga la sep, captando su atencion con el uso de herramientas como la realidad virtual. 
+
+El equipo desea tener la oportunidad de que microsoft nos permita implementar esta idea gracias a sus tecnologias. (Hololens, Ia, Chatbot, bases de datos, Luis, ML, etc.)
+
 # VrBot (dia de muertos)
 (Acerca de los elementos utilizados para la aplicacion:
 1.- Es un proyecto Original, el cual ideamos como equipo, tratando de utilizar las herramientas que unity pone a disposicion de sus desarrolladores.
