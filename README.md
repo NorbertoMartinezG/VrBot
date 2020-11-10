@@ -1,5 +1,5 @@
 # Educacion Aumentada
-La idea es original y surge de la necesidad de interesar a los estudiantes de educacion basica en los libros que les otorga la sep, captando su atencion con el uso de herramientas como la realidad virtual. 
+La idea es original y surge de la necesidad de interesar a los estudiantes de educacion basica en los libros que les otorga la sep, captando su atencion con el uso de herramientas como la realidad virtual y el desarrollo de aplicaciones como VrBot.
 
 El equipo desea tener la oportunidad de que microsoft nos permita implementar esta idea gracias a sus tecnologias. (Hololens, Ia, Chatbot, bases de datos, Luis, ML, etc.)
 
