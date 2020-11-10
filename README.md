@@ -12,4 +12,5 @@ El proyecto se logro al 90% ya que las interacciones se lograron, sin embargo la
 
 
 
-
+![img](https://github.com/NorbertoMartinezG/VrBot/blob/main/errorBot.png)
+![Preview](https://github.com/NorbertoMartinezG/VrBot/blob/main/errorBot.png)
